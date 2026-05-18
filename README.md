@@ -1,15 +1,6 @@
 <div align="center">
 
-```
-╔══════════════════════════════════════╗
-║                                      ║
-║         idor hunter                  ║
-║         luau artist                  ║
-║                                      ║
-╚══════════════════════════════════════╝
-```
-
-<br/>
+![banner](https://capsule-render.vercel.app/api?type=venom&color=0:0a0a0a,100:0d1117&height=180&text=idor%20hunter%20%7C%20luau%20artist&fontSize=28&fontColor=00ff41&animation=twinkling&fontAlignY=50)
 
 [![Discord Presence](https://lanyard.cnrad.dev/api/742899434450321458?theme=dark&bg=0a0a0a&borderRadius=8px&animated=true&idleMessage=in%20the%20terminal)](https://discord.com/users/742899434450321458)
 
