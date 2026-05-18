@@ -8,15 +8,6 @@
 
 <br/>
 
-```
-$ whoami
-→ Subi Hackwell / Roblox Systems Dev
-
-$ cat skills.txt
-→ Luau · DataStores · Combat · AI · GUI · Anti-Cheat
-
-$ cat status.txt
-→ AVAILABLE FOR HIRE
-```
+[![Typing SVG](https://readme-typing-svg.demolab.com?font=JetBrains+Mono&size=14&duration=2000&pause=900&color=00FF41&center=true&vCenter=true&width=460&height=100&lines=%24+whoami+%E2%86%92+Subi+Hackwell+%2F+Roblox+Systems+Dev;%24+cat+skills.txt+%E2%86%92+Luau+%C2%B7+DataStores+%C2%B7+Combat+%C2%B7+AI;%24+cat+status.txt+%E2%86%92+AVAILABLE+FOR+HIRE)](https://git.io/typing-svg)
 
 </div>
